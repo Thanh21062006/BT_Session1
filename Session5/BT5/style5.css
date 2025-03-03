@@ -1,0 +1,20 @@
+h1 {
+    color: blueviolet;
+}
+table {
+    width: 100%;
+}
+
+#tr1 {
+    width: 1%;
+    background-color: chartreuse;
+}
+
+#tr2 {
+    width: 99%;
+    background-color: antiquewhite;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+}
