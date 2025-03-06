@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    border-bottom: 2px solid green;
+    height: 50px;
+    width:200px;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.content1 {
+    display: flex;
+    align-items: center;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.A {
+    margin-right: 20px;
+}
+
+.B {
+    width: 20%;
+}
+
+h3{
+    opacity: 0.8;
+}
+
+span{
+    color: #447070;
+}
