@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     text-align: center;
     background-color: rgb(255, 255, 255);
@@ -17,4 +18,25 @@ th {
 
 .B1 {
     background-color: rgb(208, 232, 232);
+=======
+* {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.B1 {
+    background-color: rgb(208, 232, 232);
+>>>>>>> 4dfb3db6925012c9c83208c848be51bfe6b1a876
 }

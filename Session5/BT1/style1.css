@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     text-align: center;  
 }
@@ -5,4 +6,13 @@
 h1 {
     background-color:darkslategrey;
     color: aliceblue;
+=======
+* {
+    text-align: center;  
+}
+
+h1 {
+    background-color:darkslategrey;
+    color: aliceblue;
+>>>>>>> 4dfb3db6925012c9c83208c848be51bfe6b1a876
 }
